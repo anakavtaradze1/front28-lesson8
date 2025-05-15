@@ -24,6 +24,7 @@ ul {
   align-items: center;
   flex-wrap: wrap;
   gap: 16px;
+  text-align: center;
 }
 .title h1 {
   font-family: "Poppins";
@@ -51,7 +52,6 @@ ul {
   color: #4d4f62;
   opacity: 50%;
   max-width: 540px;
-  text-align: center;
 }
 
 .technology {
