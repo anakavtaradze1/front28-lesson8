@@ -23,6 +23,7 @@ ul {
   flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
+  gap: 16px;
 }
 .title h1 {
   font-family: "Poppins";
@@ -32,7 +33,6 @@ ul {
   letter-spacing: 0.25px;
   color: #4d4f62;
   margin-top: 80px;
-  margin-bottom: 10px;
 }
 .title h2 {
   font-family: "Poppins";
@@ -41,7 +41,6 @@ ul {
   line-height: 100%;
   letter-spacing: 0.25px;
   color: #4d4f62;
-  margin-bottom: 16px;
 }
 .title p {
   font-family: "Poppins";
@@ -88,7 +87,7 @@ ul {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 100%;
   padding: 32px 32px;
 }
